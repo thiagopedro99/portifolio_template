@@ -23,7 +23,7 @@ export const portfolioData = {
         ],
     },
 
-      // ========================================
+    // ========================================
     // SEÇÃO HERO (Apresentação Principal)
     // ========================================
 
@@ -98,7 +98,7 @@ export const portfolioData = {
                 category: 'frontend',
                 description: 'Biblioteca JavaScript para construção de interfaces de usuário com componentes reutilizáveis.'
             },
- 
+
             {
                 name: 'JavaScript',
                 icon: 'icons/javascript-original.svg',
@@ -150,7 +150,7 @@ export const portfolioData = {
                 id: '1',
                 title: 'Nome do Projeto 1',
                 description: 'Descrição breve e objetiva do projeto. Explique o problema que resolve e as principais funcionalidades.',
-                image: 'https://via.placeholder.com/400x300', // URL da imagem ou caminho local
+                image: 'https://placehold.net/400x400.png', // URL da imagem ou caminho local
                 technologies: ['React', 'TypeScript', 'Node.js'],
                 liveUrl: 'https://projeto1.com.br', // Opcional
                 githubUrl: 'https://github.com/usuario/projeto1',
@@ -160,7 +160,7 @@ export const portfolioData = {
                 id: '2',
                 title: 'Nome do Projeto 2',
                 description: 'Outra descrição interessante sobre o projeto, destacando seus diferenciais e tecnologias utilizadas.',
-                image: 'https://via.placeholder.com/400x300',
+                image: 'https://placehold.net/400x400.png', // URL da imagem ou caminho local
                 technologies: ['React', 'Styled Components', 'API'],
                 liveUrl: 'https://projeto2.com.br',
                 githubUrl: 'https://github.com/usuario/projeto2',
@@ -169,10 +169,11 @@ export const portfolioData = {
                 id: '3',
                 title: 'Nome do Projeto 3',
                 description: 'Descrição do terceiro projeto, mostrando sua experiência e habilidades.',
-                image: 'https://via.placeholder.com/400x300',
+                image: 'https://placehold.net/400x400.png', // URL da imagem ou caminho local
                 technologies: ['TypeScript', 'Express', 'PostgreSQL'],
                 githubUrl: 'https://github.com/usuario/projeto3',
             },
+
 
             // Adicione mais projetos seguindo o padrão acima
             // Campos obrigatórios: id, title, description, technologies, githubUrl
